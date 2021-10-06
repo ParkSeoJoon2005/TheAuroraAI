@@ -1,7 +1,7 @@
-
-  "name": "Aurora AI Chatbot",
+{
+  "name": "Luna The Chat Bot",
   "description": "Just another Telegram AI chat bot written in Python using Pyrogram.",
-  "repository": "https://github.com/Parkseojoon2005/TheAuroraAI",
+  "repository": "https://github.com/parkseojoon2005/TheAuroraAI",
   "keywords" : [
     "python",
     "ai-bot",
